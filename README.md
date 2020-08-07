@@ -14,7 +14,7 @@ Start your contributing journey with us by forking this repo using the Fork butt
     git clone https://github.com/YOUR_GITHUB_USERNAME_HERE/PullRequest-Practice
 ```
 
-Jump into your new local copy of All About Git:
+Jump into your new local copy:
 
 ```bash
     cd all-about-git
