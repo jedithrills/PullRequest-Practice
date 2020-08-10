@@ -17,7 +17,7 @@ Start your contributing journey with us by forking this repo using the Fork butt
 Jump into your new local copy:
 
 ```bash
-    cd all-about-git
+    cd PullRequest-Practice
 ```
 
 And then add an `upstream` remote that points to the main repo:
